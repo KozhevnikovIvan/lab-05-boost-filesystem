@@ -38,7 +38,6 @@ void dirObxod(std::string path, size_t substr_skip)
 		}
 	}
 }
-
 int main(int argc, char **argv)
 {
 	std::string dirpath;
